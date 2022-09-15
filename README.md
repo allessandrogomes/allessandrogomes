@@ -1,7 +1,7 @@
 ### Olá, me chamo Alessandro da Silva Gomes 👋
 
 
-- 🔭 Atualmente estou em busca de um estágio
+- 🔭 Aberto a oportunidades
 - 🌱 Estudando Front-End, e um pouco de Back-End
 
 <div align="left">
