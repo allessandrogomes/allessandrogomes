@@ -1,4 +1,4 @@
-### Olá, me chamo Alessandro da Silva Gomes 👋
+### Hello, my name is Alessandro da Silva Gomes 👋
 
 - Front End Developer
 - Higher course in Systems Analysis and Development - In progress (Start in 2022)
