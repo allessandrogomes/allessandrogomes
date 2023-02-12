@@ -5,7 +5,7 @@
 - 23 Years old
 - Studying Front End with React Javascript
 - Languages: Native Portuguese, Intermediate English
-- My main technologies currently: HTML, CSS, Javascript, React, GitHub
+- My main technologies currently: HTML, CSS, Javascript, React, Git
 
 <div><br>
   <a href="https://www.instagram.com/allesssandro_gomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
