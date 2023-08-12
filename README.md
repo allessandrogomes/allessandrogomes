@@ -1,11 +1,9 @@
 ### Olá, meu nome é Alessandro da Silva Gomes 👋
 
-- Desenvolvedor Front End;
+- Desenvolvedor Front End React.js;
 - Cursando Análise e Desenvolvimento de Sistemas;
-- Focando os estudos em React.js;
-- Idiomas: Português fluente, Inglês Básico;
-- Minhas principais habilidades atualmente: HTML, CSS, Javascript, React.js, Git, Sass, TailwindCSS e Fetch API.
-
+- Minhas principais habilidades atualmente: HTML, CSS, Javascript, React.js, Git, Github, Sass, TailwindCSS e Fetch API.
+- Portfólio: https://allessandrogomes.github.io/portfolio/
 <div><br>
   <a href="https://www.instagram.com/allesssandro_gomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alllessandrogomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
