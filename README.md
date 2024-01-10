@@ -2,7 +2,7 @@
 
 - Desenvolvedor Front End React.js;
 - Cursando Análise e Desenvolvimento de Sistemas;
-- Minhas principais habilidades atualmente: HTML, CSS, JavaScript, React, TailwindCss, Sass, StyledComponents, Context React, Material UI, Fetch API, SEO, Expressões Regulares
+- Minhas principais habilidades atualmente: HTML, CSS, JavaScript, React, TailwindCss, Sass, StyledComponents, ContextAPI, Material UI, Bootstrap-React, Fetch API, SEO, Expressões Regulares
 (Regex), Mobile-First, Git e GitHub
 - Portfólio: https://allessandrogomes-portfolio.vercel.app
 <div><br>
