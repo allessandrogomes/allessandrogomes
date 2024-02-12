@@ -1,8 +1,8 @@
 ### Olá, meu nome é Alessandro da Silva Gomes 👋
 
-- Desenvolvedor Front End React.js;
+- Desenvolvedor Front End React;
 - Cursando Análise e Desenvolvimento de Sistemas;
-- Minhas principais habilidades atualmente: HTML, CSS, JavaScript, React, TailwindCss, Sass, StyledComponents, ContextAPI, Material UI, Bootstrap-React, Fetch API, SEO, Expressões Regulares
+- Minhas principais habilidades atualmente: HTML, CSS, JavaScript, TypeScript, React, TailwindCss, StyledComponents, ContextAPI, Material UI, Bootstrap-React, Fetch API, SEO, Expressões Regulares
 (Regex), Mobile-First, Git e GitHub
 - Portfólio: https://allessandrogomes-portfolio.vercel.app
 <div><br>
