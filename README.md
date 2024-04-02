@@ -1,4 +1,4 @@
-### Olá, meu nome é Alessandro da Silva Gomes 👋
+### Alessandro Gomes
 
 - Desenvolvedor Front End React;
 - Cursando Análise e Desenvolvimento de Sistemas;
