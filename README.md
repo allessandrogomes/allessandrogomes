@@ -24,7 +24,5 @@ No momento estou em processo de finalização do meu curso superior em Análise 
 
 Estou sempre aberto a novos desafios e oportunidades para crescer e contribuir para o sucesso de projetos inovadores.
 
-*Não é uma questão de 'se', mas de 'quando'. A conquista é certa, e até que o momento chegue, continuarei dedicando-me incansavelmente ao sucesso.*
-
   <a href = "mailto:alllessandrogomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/allessandrogomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
