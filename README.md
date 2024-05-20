@@ -1,7 +1,7 @@
 ### Alessandro Gomes
 No momento estou em processo de finalização do meu curso superior em Análise e Desenvolvimento de Sistemas, na UNINASSAU em Petrolina-PE, com previsão de término em Julho de 2024. Após este, pretendo iniciar meu curso de Engenharia de Software e continuar me aperfeiçoando na área até me tornar um Engenheiro/Desenvolvedor de Software Full Stack.
 
-| Linguagens de Programação | Frameworks e Bibliotecas        | Design e Estilização      | APIs e Middleware          |
+| Linguagens | Frameworks e Bibliotecas        | Design e Estilização      | APIs e Middleware          |
 |---------------------------|---------------------------------|---------------------------|----------------------------|
 | HTML                      | React                           | Sass                      | RESTful API                |
 | CSS                       | Redux                           | Styled-Components         | Fetch API                  |
