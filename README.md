@@ -1,10 +1,10 @@
-👨💻 Full Stack Web Developer com formação em Análise e Desenvolvimento de Sistemas, especializado no ecossistema JavaScript/TypeScript e apaixonado por construir soluções robustas e escaláveis.
+👨💻 Full Stack Web Developer com formação em Análise e Desenvolvimento de Sistemas, especializado no ecossistema JavaScript/TypeScript.
 
 🚀 Experiência em:
 
 Front-end: React, Next.js, SASS, Material UI, Bootstrap, Redux, TailwindCSS, Styled Components, e integrações com APIs REST.
 
-Back-end: Node.js, Express.Js, Prisma, Zod, bancos de dados NoSQL (MongoDB, Firebase) e SQL (PostgreSQL, MySQL).
+Back-end: Node.js, Express.Js, Prisma, Zod, bancos de dados NoSQL (MongoDB) e SQL (PostgreSQL).
 
 Arquitetura: Desenvolvimento de aplicações full stack, otimização de performance e código limpo.
 
