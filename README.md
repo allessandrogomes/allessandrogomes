@@ -1,14 +1,53 @@
-👨💻 Full Stack Web Developer com formação em Análise e Desenvolvimento de Sistemas, especializado no ecossistema JavaScript/TypeScript.
+# 👨‍💻 Full Stack Developer | JavaScript | TypeScript | React | Node.js
 
-🚀 Experiência em:
+Olá! Sou um desenvolvedor Full Stack com mais de 2 anos de experiência construindo aplicações web robustas, escaláveis e de alta performance.
 
-Front-end: React, Next.js, SASS, Material UI, Bootstrap, Redux, TailwindCSS, Styled Components, e integrações com APIs REST.
+## 🚀 Tecnologias & Ferramentas
 
-Back-end: Node.js, Express.Js, Prisma, Zod, bancos de dados NoSQL (MongoDB) e SQL (PostgreSQL).
+### 🧠 Linguagens & Frameworks
+- **JavaScript (ES6+), TypeScript**
+- **React, Next.js**
+- **Node.js, Express**
+- **GraphQL (Apollo)**
 
-Arquitetura: Desenvolvimento de aplicações full stack, otimização de performance e código limpo.
+### 🎨 UI & State Management
+- Redux, React Query, Zustand  
+- Tailwind CSS, SASS, Styled-Components, MUI  
+- HTML5, CSS3
 
-💡 Projetos focados em resolver problemas reais, com atenção à experiência do usuário e boas práticas de desenvolvimento. Aberto para colaborações em projetos inovadores, contribuições open-source e desafios que envolvam tecnologias modernas.
+### 🗄️ Banco de Dados & ORMs
+- PostgreSQL (Prisma), MySQL  
+- MongoDB (Mongoose), Redis
 
-  <a href = "mailto:alllessandrogomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/allessandrogomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### 🔌 APIs & Arquitetura
+- RESTful APIs, GraphQL  
+- WebSockets (Socket.io), Microservices  
+- Serverless (AWS Lambda)
+
+### ⚙️ DevOps & Infraestrutura
+- Git, GitHub/GitLab, Docker, Docker Compose  
+- CI/CD (GitHub Actions, Jenkins)  
+- Vercel, Railway, AWS (EC2, S3, RDS)  
+- Kubernetes (básico), Terraform (básico)
+
+### ✅ Testes & Qualidade
+- Jest, React Testing Library, Cypress  
+- TDD, ESLint, Prettier
+
+### 🧩 Metodologias e Soft Skills
+- Scrum, Kanban, Pair Programming, Code Review  
+- Comunicação clara, colaboração em equipe, proatividade e adaptabilidade
+
+---
+
+## 📫 Vamos conversar?
+
+Se você quiser trocar ideias, tirar dúvidas ou colaborar em projetos, fique à vontade para entrar em contato:
+
+- 📧 **alllessandrogomes@gmail.com**
+- 💼 [LinkedIn](https://linkedin.com/in/allessandrogomes)
+- 🌐 valebytes.com.br
+
+---
+
+> *Atualmente cursando Engenharia de Software e formado em Análise e Desenvolvimento de Sistemas.*
