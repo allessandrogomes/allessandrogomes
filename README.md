@@ -1,6 +1,6 @@
 # 👨‍💻 Full Stack Developer | JavaScript | TypeScript | React | Node.js
 
-Olá! Sou um desenvolvedor Full Stack com mais de 2 anos de experiência construindo aplicações web robustas, escaláveis e de alta performance.
+Olá! Sou um desenvolvedor Full Stack com 2 anos de experiência construindo aplicações web robustas, escaláveis e de alta performance.
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -17,21 +17,19 @@ Olá! Sou um desenvolvedor Full Stack com mais de 2 anos de experiência constru
 
 ### 🗄️ Banco de Dados & ORMs
 - PostgreSQL (Prisma), MySQL  
-- MongoDB (Mongoose), Redis
+- MongoDB (Mongoose), Supabase
 
 ### 🔌 APIs & Arquitetura
 - RESTful APIs, GraphQL  
-- WebSockets (Socket.io), Microservices  
-- Serverless (AWS Lambda)
+- WebSockets (Socket.io), Microservices
 
 ### ⚙️ DevOps & Infraestrutura
-- Git, GitHub/GitLab, Docker, Docker Compose  
-- CI/CD (GitHub Actions, Jenkins)  
-- Vercel, Railway, AWS (EC2, S3, RDS)  
-- Kubernetes (básico), Terraform (básico)
+- Git, GitHub, Docker  
+- CI/CD (GitHub Actions)  
+- Vercel, Railway, AWS (EC2, S3)
 
 ### ✅ Testes & Qualidade
-- Jest, React Testing Library, Cypress  
+- Jest, React Testing Library  
 - TDD, ESLint, Prettier
 
 ### 🧩 Metodologias e Soft Skills
