@@ -1,21 +1,23 @@
 # Olá, eu sou o Alessandro 👋
 
-**Desenvolvedor Frontend** com mais de 3 anos de experiência construindo e mantendo aplicações **web, mobile e desktop** em produção com React, Next.js, React Native, Electron e TypeScript. Também atuo no back-end com Node.js, NestJS e Laravel quando o produto pede.
+**Desenvolvedor Front-end e Mobile** construindo e mantendo aplicações **web, mobile e desktop** em produção com React, Next.js, React Native, Electron e TypeScript, em produtos de delivery usados em escala nacional. Também atuo no back-end com Node.js, NestJS e Laravel quando o produto pede.
 
 Gosto de pegar sistemas travados, legados ou pesados e deixá-los rápidos, organizados e fáceis de manter.
 
-- 💼 Desenvolvedor Frontend no **[pede.ai](https://pede.ai)**
+- 💼 Desenvolvedor Front-end e Mobile no **[pede.ai](https://pede.ai)**
 - 🚀 Criador do **[Vezon](https://vezon.app)**, um SaaS de agendamento com integração ao WhatsApp
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas, cursando Engenharia de Software
 - 📚 Estudando Java e Kotlin para desenvolvimento Android nativo
+- 🌎 Inglês intermediário · aberto a oportunidades remotas como Front-end, Mobile ou Engenheiro de Software
 
 ---
 
 ## 🏆 Alguns resultados
 
-- **App desktop em Electron:** reestruturei a aplicação até a produção, reduzindo o instalador de **600 MB para 85 MB (−86%)** e o tamanho instalado de **1,2 GB para 287 MB (−76%)**. Também modularizei a arquitetura (arquivo principal de ~1.200 para ~300 linhas) e implementei atualização automática.
+- **App desktop em Electron (Pinguim-PC):** reestruturei a aplicação até a produção, reduzindo o instalador de **600 MB para 85 MB (−86%)** e o tamanho instalado de **1,2 GB para 287 MB (−76%)**. Também modularizei a arquitetura (arquivo principal de ~1.200 para ~300 linhas) e implementei atualização automática.
+- **Chat de suporte:** integrei o Crisp ao WebSocket, ao back-end e ao app mobile de delivery, tirando o atendimento do WhatsApp e economizando cerca de **US$ 1.000/mês**.
 - **Migração de legado:** reativei um cardápio web parado havia ~5 anos, que não rodava localmente, migrando de Create React App para **Next.js (App Router)**.
-- **Pagamentos:** implementei pagamento com cartão (fingerprint e criptografia de dados sensíveis no front), **Pix, NuPay e PicPay**.
+- **Checkout completo:** implementei pagamento com cartão (fingerprint e criptografia de dados sensíveis no front), **Pix, NuPay e PicPay**, além de carrinho, autenticação, geolocalização, busca com OpenSearch e SEO.
 - **Geração em lote:** desenvolvi o front de um gerador de artes com logo e QR code personalizados para centenas a milhares de lojas.
 - **Estabilidade:** monitoramento de erros com Bugsnag (sourcemaps e redução de ruído) e alertas automáticos no Slack.
 
@@ -56,6 +58,7 @@ Site institucional de uma exportadora de mangas, cocos e limões do Vale do São
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
